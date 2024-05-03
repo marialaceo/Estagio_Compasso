@@ -1,2 +1,3 @@
-# Estagio_Compasso
-Repositório destinado aos materias dos desafios das Sprints do estágio.
+# Maria Beatriz Lacerda de Oliveira
+
+![foto de Maria](\Users\MariaBia\Documents\Estagio\Estagio_Compasso>)
