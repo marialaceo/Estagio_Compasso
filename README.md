@@ -23,6 +23,7 @@ Criação de projetos pessoais para estudo.
 
 * Java OO - Básico
 * Python - Básico
+* Linux - Intermediário
 * Git - Intermediário
 
 ## Hobbies 
