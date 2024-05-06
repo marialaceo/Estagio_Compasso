@@ -1,6 +1,6 @@
 # Maria Beatriz Lacerda de Oliveira
 
-![foto de Maria](imagem.jpeg)
+![foto de Maria](Sprint_01/imagem.jpeg)
 
 ## Apresentação
 
