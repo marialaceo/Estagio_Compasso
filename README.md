@@ -36,6 +36,7 @@ Criação de projetos pessoais para estudo.
 * Git - Acabei de fazer um curso bem completo de git, onde aprendi a versionar código de várias formas e aprendi utilizar a plataforma GitHub e formatar arquivos .md com Markdown.
 * Linux - Aprendi com esse curso vários comandos e flags usadas para manipular diretórios e arquivos, e me deu uma noção de Shell script.
 * Java OO / Sprint Boot - Estou fazendo um curso e desenvolvendo junto com o curso um jogo de xadrês em java. 
+* SQL - Para análise de dados e criação e modelação de tabelas.
 
 
 
