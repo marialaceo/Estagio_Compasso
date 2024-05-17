@@ -19,14 +19,16 @@ CREATE TABLE tb_carro (
 	marcaCarro varchar,
 	modeloCarro varchar,
 	anoCarro date,
-	FOREIGN KEY (idCombustivel) REFERENCES tb_carro (idCombustivel)
+	FOREIGN KEY (idCombustivel) REFERENCES tb_combustivel (idCombustivel)
 )
 
 select * from tb_carro tc 
 
 CREATE TABLE tb_combustivel (
 	idCombustivel integer PRIMARY KEY,
-	tipoCombustivel varchar	
+	idCarro integer,
+	tipoCombustivel varchar,
+	FOREIGN KEY (idCarro) REFERENCES tb_carro (idCarro)	
 )
 
 select * from tb_combustivel tc  
