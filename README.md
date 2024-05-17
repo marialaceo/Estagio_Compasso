@@ -6,7 +6,7 @@
 
 * 20 anos
 * Vitória da Conquista-BA
-* beatrizlacerda2011@gmail.com
+* [beatrizlacerda2011@gmail.com](beatrizlacerda2011@gmail.com)
 
 ## Instituição de Ensino
 
