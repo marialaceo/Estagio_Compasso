@@ -1,6 +1,6 @@
 # Maria Beatriz Lacerda de Oliveira
 
-![foto de Maria](Sprint_01/imagem.jpeg)
+![foto de Maria](Sprint_01/Desafio_git/imagem.jpeg)
 
 ## Apresentação
 
