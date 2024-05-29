@@ -1,0 +1,29 @@
+1 - 74.50 aparece 1
+2 - American Sniper aparece 1
+3 - Avengers: Age of Ultron aparece 2
+4 - Catching Fire aparece 4
+5 - Dead Man's Chest aparece 2
+6 - Harry Potter / Deathly Hallows (P2) aparece 4
+7 - Hotel Transylvania 2 aparece 1
+8 - Independence Day aparece 1
+9 - Meet the Fockers aparece 3
+10 - Men in Black aparece 1
+11 - Minions aparece 1
+12 - Night at the Museum aparece 2
+13 - Ocean's Eleven aparece 1
+14 - Return of the King aparece 2
+15 - Shrek 2 aparece 2
+16 - Sixth Sense aparece 1
+17 - Star Wars: The Force Awakens aparece 3
+18 - The Avengers aparece 5
+19 - The Dark Knight aparece 3
+20 - The Dark Knight Rises aparece 1
+21 - The Grinch aparece 1
+22 - The LEGO Movie aparece 1
+23 - The Martian aparece 1
+24 - The Phantom Menace aparece 1
+25 - Titanic aparece 1
+26 - Toy Story 3 aparece 1
+27 - Transformers 4 aparece 1
+28 - War of the Worlds aparece 1
+29 - World War Z aparece 1
