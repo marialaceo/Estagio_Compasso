@@ -22,7 +22,7 @@ Criação de projetos pessoais para estudo.
 ## Tecnologias 
 
 * Java OO - Básico
-* Python - Básico
+* Python - Intermediário
 * Linux - Intermediário
 * Git - Intermediário
 
