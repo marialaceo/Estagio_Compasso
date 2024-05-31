@@ -37,8 +37,6 @@ Criação de projetos pessoais para estudo.
 * Linux - Aprendi com esse curso vários comandos e flags usadas para manipular diretórios e arquivos, e me deu uma noção de Shell script.
 * Java OO / Sprint Boot - Estou fazendo um curso e desenvolvendo junto com o curso um jogo de xadrês em java. 
 * SQL - Para análise de dados e criação e modelação de tabelas.
-
-
-
-
-
+* Python - Para análise de dados.
+* Pandas - Para criação e manipulação de DataFremes
+* Matplotlib - Para criação de gráficos e deshboards com DataFrames
