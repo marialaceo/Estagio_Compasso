@@ -39,6 +39,7 @@ Criação de projetos pessoais para estudo.
 * SQL - Para análise de dados e criação e modelação de tabelas.
 * Python - Para análise de dados.
 * Pandas - Para criação e manipulação de DataFremes.
+* Jupyter Notebook - Para manipulação e vizualização de dados com python.
 * Matplotlib - Para criação de gráficos e deshboards com DataFrames.
 * Docker - Crianção de containers, images, network, volumes.
 * Kubernetes - \para conecção com AWS services.
