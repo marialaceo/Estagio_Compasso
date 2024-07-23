@@ -43,5 +43,5 @@ Criação de projetos pessoais para estudo.
 * Matplotlib - Para criação de gráficos e deshboards com DataFrames.
 * Docker - Crianção de containers, images, network, volumes.
 * Kubernetes - \para conecção com AWS services.
-* AWS Services - EC2, S3, IAM entre outros subserviços aws.
+* AWS Services - EC2, S3, IAM, Lambda, Athena, entre outros subserviços aws.
 * BOTO3 - Para ligação de arquivos python com o serviço S3 AWS.
