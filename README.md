@@ -50,7 +50,7 @@ Criação de projetos pessoais para estudo.
 
 [Sprint_01](Sprint_01)
 
-[Sprint_02](Sprint_01)
+[Sprint_02](Sprint_02)
 
 [Sprint_03](Sprint_03)
 
@@ -58,6 +58,6 @@ Criação de projetos pessoais para estudo.
 
 [Sprint_05](Sprint_05)
 
-[Sprint_07](Sprint_07)
+[Sprint_06](Sprint_06)
 
-[Sprint_08](Sprint_08)
+[Sprint_07](Sprint_07)
