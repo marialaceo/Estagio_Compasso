@@ -45,3 +45,19 @@ Criação de projetos pessoais para estudo.
 * Kubernetes - \para conecção com AWS services.
 * AWS Services - EC2, S3, IAM, Lambda, Athena, entre outros subserviços aws.
 * BOTO3 - Para ligação de arquivos python com o serviço S3 AWS.
+
+## Sprints 
+
+[Sprint_01](Sprint_01)
+
+[Sprint_02](Sprint_01)
+
+[Sprint_03](Sprint_03)
+
+[Sprint_04](Sprint_04)
+
+[Sprint_05](Sprint_05)
+
+[Sprint_07](Sprint_07)
+
+[Sprint_08](Sprint_08)
