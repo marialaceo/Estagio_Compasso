@@ -4,11 +4,11 @@
 
 ## Exercício 
 
-[Exercicio_de_ETL](Exercicio_ETL_Python)
+[Exercicio_de_ETL](Exercicio/Exercicio_ETL_Python/)
 
 Os exercícios udemy foi uma pasta criada para depositar os exercícios python que rodaram certo, mas apresentaram bug na plataforma de código da udemy, então foi adicionado ao github.
 
-[Exercicios_Udemy](Exercicios_udemy)
+[Exercicios_Udemy](Exercicio/Exercicios_udemy)
 
 ## 2 - Certificados
 

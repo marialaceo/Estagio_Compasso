@@ -4,7 +4,9 @@
 
 ## Exercício 
 
-[Exercicio_de_ETL](Exercicio_Python)
+O exercício foi uma pasta criada para depositar o exercício python que rodou certo, mas apresentaou bug na plataforma de código da udemy, então foi adicionado ao github.
+
+[Exercicio_de_Python](Exercicio)
 
 ## 2 - Certificados
 
@@ -14,7 +16,7 @@
 
 ### 2.2 - Docker
 
-[SQL](Certificado/certificado_docker.pdf)
+[Docker](Certificado/certificado_docker.pdf)
 
 
 ## 3 - Evidências

@@ -29,20 +29,20 @@
 
 ### 3.1 - Laboratório S3
 
-![Laboratório de s3 - 1](Laboratorios_evidencias/exercicio_sprint06_lab_s3-1.jpg)
+![Laboratório de s3 - 1](Evidencias/exercicio_sprint06_lab_s3-1.jpg)
 
-![Laboratório de s3 - 2](Laboratorios_evidencias/exercicio_sprint06_lab_s3-3.jpg)
+![Laboratório de s3 - 2](Evidencias/exercicio_sprint06_lab_s3-3.jpg)
 
 ### 3.2 - Laboratório Athena
 
-![Laboratório de Athena - 1](Laboratorios_evidencias/exercicio_sprint06_lab_athena.jpg)
+![Laboratório de Athena - 1](Evidencias/exercicio_sprint06_lab_athena.jpg)
 
-![Laboratório de Athena - 1](Laboratorios_evidencias/exercicio_sprint06_lab_athena2.jpg)
+![Laboratório de Athena - 1](Evidencias/exercicio_sprint06_lab_athena2.jpg)
 
-![Laboratório de Athena - 1](Laboratorios_evidencias/exercicio_sprint06_lab_athena3.jpg)
+![Laboratório de Athena - 1](Evidencias/exercicio_sprint06_lab_athena3.jpg)
 
 ### 3.3 - Laboratório Lambda
 
-![Laboratório de Lambda - 1](Laboratorios_evidencias/exercicio_sprint06_lab_lambda1.jpg)
+![Laboratório de Lambda - 1](Evidencias/exercicio_sprint06_lab_lambda1.jpg)
 
-![Laboratório de Lambda - 2](Laboratorios_evidencias/exercicio_sprint06_lab_lambda2.jpg)
+![Laboratório de Lambda - 2](Evidencias/exercicio_sprint06_lab_lambda2.jpg)
