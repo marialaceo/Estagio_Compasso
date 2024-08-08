@@ -36,10 +36,6 @@ Evidência de que os crawlers referentes as pastas de em que estão os arquivos 
 
 ![Evidencias de execução do desafio](Evidencias/Evidencias_Desafio/evidencia_desafio_crawler_1.jpg)
 
-Evidência de que a tabela referente aos dados parquet de origem do ```s3://data-lake-final-programa-de-bolsas/Trusted/Files/Parquet/filmes_json/dt=2024-08-07/``` foram transformados em tabela e já respondem corretamente a consultas SQL.
-
-![Evidencias de execução do desafio](Evidencias/Evidencias_Desafio/evidencia_desafio_json_athena.jpg)
-
 Evidência de que a tabela referente aos dados parquet de origem do ```s3://data-lake-final-programa-de-bolsas/Trusted/Files/Parquet/filmes_csv/dt=2024-08-07/``` foram transformados em tabela e já respondem corretamente a consultas SQL.
 
 ![Evidencias de execução do desafio](Evidencias/Evidencias_Desafio/evidencia_desafio_csv_athena.jpg)
@@ -50,6 +46,4 @@ Evidência de que a tabela referente aos dados parquet de origem do ```s3://data
 
 ## Evidencia de execução do exercício de Geração em massa de dados
 
-![Evidencias de execução do exercício de Geração em massa de dados](Evidencias/Evidencia_exercicio_gerando_dados/evidencia_exercicio_geracao_de_dados_em_massa.jpg)
-
-
+![Evidencias de execução do desafio](Evidencias/Evidencias_Desafio/evidencia_desafio_json_athena.jpg)
