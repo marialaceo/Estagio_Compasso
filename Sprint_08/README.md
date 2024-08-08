@@ -16,7 +16,7 @@ Evidência de que todos os arquivos parquet foram salvos de forma correta no buc
 
 ![Evidencias de execução do desafio](Evidencias/Evidencias_Desafio/evidencia_desafio_csv_job_2.jpg)
 
-Evidência de que todos os arquivos parquet contém od dados do arquivo csv ```movies.csv``` e está com os dados que eu solicitei na filtragem de dados.
+Evidência de que todos os arquivos parquet contém os dados do arquivo csv ```movies.csv``` e estão com os dados que eu solicitei na filtragem de dados.
 
 ![Evidencias de execução do desafio](Evidencias/Evidencias_Desafio/evidencia_desafio_csv_job_3.jpg)
 
@@ -28,18 +28,28 @@ Evidência de que todos os arquivos parquet foram salvos de forma correta no buc
 
 ![Evidencias de execução do desafio](Evidencias/Evidencias_Desafio/evidencia_desafio_json_job_2.jpg)
 
-Evidência de que todos os arquivos parquet contém od dados dos arquivos json e está com os dados que eu solicitei na filtragem de dados.
+Evidência de que todos os arquivos parquet contém os dados dos arquivos json e estão com os dados que eu solicitei na filtragem de dados.
 
 ![Evidencias de execução do desafio](Evidencias/Evidencias_Desafio/evidencia_desafio_json_job_3.jpg)
 
-Evidência de que o crawler referentes as pastas de em que estão os arquivos parquet foram processados e transformados em tabelas.
+Evidência de que os crawlers referentes as pastas de em que estão os arquivos parquet foram processados e transformados em tabelas.
 
 ![Evidencias de execução do desafio](Evidencias/Evidencias_Desafio/evidencia_desafio_crawler_1.jpg)
+
+Evidência de que a tabela referente aos dados parquet de origem do ```s3://data-lake-final-programa-de-bolsas/Trusted/Files/Parquet/filmes_json/dt=2024-08-07/``` foram transformados em tabela e já respondem corretamente a consultas SQL.
+
+![Evidencias de execução do desafio](Evidencias/Evidencias_Desafio/evidencia_desafio_json_athena.jpg)
 
 Evidência de que a tabela referente aos dados parquet de origem do ```s3://data-lake-final-programa-de-bolsas/Trusted/Files/Parquet/filmes_csv/dt=2024-08-07/``` foram transformados em tabela e já respondem corretamente a consultas SQL.
 
 ![Evidencias de execução do desafio](Evidencias/Evidencias_Desafio/evidencia_desafio_csv_athena.jpg)
 
-Evidência de que a tabela referente aos dados parquet de origem do ```s3://data-lake-final-programa-de-bolsas/Trusted/Files/Parquet/filmes_json/dt=2024-08-07/``` foram transformados em tabela e já respondem corretamente a consultas SQL.
+## Exercícios da Sprint 08
 
-![Evidencias de execução do desafio](Evidencias/Evidencias_Desafio/evidencia_desafio_json_athena.jpg)
+[Exercicios](Exercicio)
+
+## Evidencia de execução do exercício de Geração em massa de dados
+
+![Evidencias de execução do exercício de Geração em massa de dados](Evidencias/Evidencia_exercicio_gerando_dados/evidencia_exercicio_geracao_de_dados_em_massa.jpg)
+
+
