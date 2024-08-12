@@ -46,4 +46,18 @@ Evidência de que a tabela referente aos dados parquet de origem do ```s3://data
 
 ## Evidencia de execução do exercício de Geração em massa de dados
 
-![Evidencias de execução do desafio](Evidencias/Evidencias_Desafio/evidencia_desafio_json_athena.jpg)
+![Evidencias de execução do exercício de Geração em massa de dados](Evidencias/Evidencia_exercicio_gerando_dados/evidencia_exercicio_geracao_de_dados_em_massa.jpg)
+
+## Evidencia de execução do exercício de Spark 
+
+![Evidencias de execução do exercício de Spark](Evidencias/Evidencias_Exercicio_spark/exercicio_spark_evidencia1.jpg)
+
+![Evidencias de execução do exercício de Spark](Evidencias/Evidencias_Exercicio_spark/exercicio_spark_evidencia2.jpg)
+
+![Evidencias de execução do exercício de Spark](Evidencias/Evidencias_Exercicio_spark/exercicio_spark_evidencia3.jpg)
+
+![Evidencias de execução do exercício de Spark](Evidencias/Evidencias_Exercicio_spark/exercicio_spark_evidencia3.jpg)
+
+![Evidencias de execução do exercício de Spark](Evidencias/Evidencias_Exercicio_spark/exercicio_spark_evidencia4.jpg)
+
+![Evidencias de execução do exercício de Spark](Evidencias/Evidencias_Exercicio_spark/exercicio_spark_evidencia5.jpg)
