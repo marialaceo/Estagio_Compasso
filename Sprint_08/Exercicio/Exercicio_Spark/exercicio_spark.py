@@ -16,13 +16,18 @@ from pyspark.sql.functions import lit, when, rand
 
 df_nomes = df_nomes.withColumn("Escolaridade",when(rand() < 0.33, lit("Fundamental")).when(rand() < 0.66, lit("Médio")).otherwise(lit("Superior")))
 
-import random
+from pyspark.sql.functions import expr
 
-paises = ["Brasil", "Argentina", "Chile", "Uruguai", "Paraguai", "Bolívia", "Peru", "Equador", "Colômbia", "Venezuela", "Guiana", "Suriname", "Guiana Francesa"]
-
-df_nomes = df_nomes.withColumn("Pais",lit(random.choice(paises)))
-
-df_nomes = df_nomes.withColumn("AnoNascimento",lit(random.randint(1945, 2010)))
+df_nomes = df_nomes.withColumn(
+    "País",
+    expr("element_at(array('Brasil', 'Argentina', 'Chile', 'Uruguai', 'Paraguai', "
+         "'Bolívia', 'Peru', 'Equador', 'Colômbia', 'Venezuela', "
+         "'Guiana', 'Suriname', 'Guiana Francesa'), cast(floor(rand() * 13 + 1) as int))")
+)
+df_nomes = df_nomes.withColumn(
+    "AnoNascimento",
+    expr("cast(floor(1945 + rand() * (2010 - 1945 + 1)) as int)")
+)
 
 df_select = df_nomes.filter(df_nomes.AnoNascimento > 2000)
 
@@ -51,9 +56,9 @@ df_nomes.createOrReplaceTempView("pessoas")
 df_contagem_geracao = spark.sql("""
     SELECT Pais, Geracao, COUNT(*) as Quantidade
     FROM pessoas
-    WHERE Geração IS NOT NULL
-    GROUP BY Pais, Geração
-    ORDER BY Pais ASC, Geração ASC, Quantidade ASC
+    WHERE Geracao IS NOT NULL
+    GROUP BY Pais, Geracao
+    ORDER BY Pais ASC, Geracao ASC, Quantidade ASC
 """)
 
 df_contagem_geracao.show()

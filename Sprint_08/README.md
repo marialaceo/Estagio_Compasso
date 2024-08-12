@@ -50,14 +50,8 @@ Evidência de que a tabela referente aos dados parquet de origem do ```s3://data
 
 ## Evidencia de execução do exercício de Spark 
 
-![Evidencias de execução do exercício de Spark](Evidencias/Evidencias_Exercicio_spark/exercicio_spark_evidencia1.jpg)
+![Evidencias de execução do exercício de Spark](Evidencias/Evidencia_Exercicio_Spark/evidencia_spark1.jpg)
 
-![Evidencias de execução do exercício de Spark](Evidencias/Evidencias_Exercicio_spark/exercicio_spark_evidencia2.jpg)
+![Evidencias de execução do exercício de Spark](Evidencias/Evidencia_Exercicio_Spark/evidencia_spark2.jpg)
 
-![Evidencias de execução do exercício de Spark](Evidencias/Evidencias_Exercicio_spark/exercicio_spark_evidencia3.jpg)
-
-![Evidencias de execução do exercício de Spark](Evidencias/Evidencias_Exercicio_spark/exercicio_spark_evidencia3.jpg)
-
-![Evidencias de execução do exercício de Spark](Evidencias/Evidencias_Exercicio_spark/exercicio_spark_evidencia4.jpg)
-
-![Evidencias de execução do exercício de Spark](Evidencias/Evidencias_Exercicio_spark/exercicio_spark_evidencia5.jpg)
+![Evidencias de execução do exercício de Spark](Evidencias/Evidencia_Exercicio_Spark/evidencia_spark3.jpg)
