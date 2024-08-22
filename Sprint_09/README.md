@@ -35,8 +35,12 @@ Por fim pude analizar os dados das tabelas, através do AWS Athena, para conferi
 
 ![Tabela Filme](Evidencia/tabelaFilme.jpg)
 
-![Tabela Filme](Evidencia/tabelaGeracao.jpg)
+![tabela Geracao](Evidencia/tabelaGeracao.jpg)
 
-![Tabela Filme](Evidencia/tabelaPeriodoPopularidade.jpg)
+![tabela Periodo Popularidade](Evidencia/tabelaPeriodoPopularidade.jpg)
 
-![Tabela Filme](Evidencia/tabelaPopularidade.jpg)
+![tabela Popularidade](Evidencia/tabelaPopularidade.jpg)
+
+Para melhor visualização da relação entre as tabelas criadas foi criado uma diagrama
+
+![diagrama das tabelas](Evidencia/diagramaDasTabelas.jpg)
