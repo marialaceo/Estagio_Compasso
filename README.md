@@ -42,9 +42,10 @@ Criação de projetos pessoais para estudo.
 * Jupyter Notebook - Para manipulação e vizualização de dados com python.
 * Matplotlib - Para criação de gráficos e deshboards com DataFrames.
 * Docker - Crianção de containers, images, network, volumes.
-* Kubernetes - \para conecção com AWS services.
-* AWS Services - EC2, S3, IAM, Lambda, Athena, entre outros subserviços aws.
+* Kubernetes - Para conecção com AWS services.
+* AWS Services - EC2, S3, IAM, Lambda, Athena, Glue, entre outros subserviços aws.
 * BOTO3 - Para ligação de arquivos python com o serviço S3 AWS.
+* Spark - Para melhorar a performace de processamento de dados.
 
 ## Sprints 
 
