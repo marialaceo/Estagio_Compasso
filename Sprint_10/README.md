@@ -23,12 +23,12 @@ Primeiramente temos o resultado da função lambda que eu precisei refazer para 
 
 ![Resultado do lambda](Evidencias/evidencia01.jpg)
 
-Primeiramente temos o resultado do job trusted que eu também precisei refazer para etender minha demanda.
+Logo após temos o resultado do job trusted que eu também precisei refazer para etender minha demanda.
 
 ![Resultado do job trusted](Evidencias/evidencia02.jpg)
 ![Resultado do job trusted](Evidencias/evidencia03.jpg)
 
-Primeiramente temos o resultado do job refined que eu também precisei refazer para etender minha demanda.
+E depois temos o resultado do job refined que eu também precisei refazer para etender minha demanda.
 
 ![Resultado do lambda](Evidencias/evidencia04.jpg)
 ![Resultado do lambda](Evidencias/evidencia05.jpg)
