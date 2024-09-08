@@ -33,3 +33,16 @@ Primeiramente temos o resultado do job refined que eu também precisei refazer p
 ![Resultado do lambda](Evidencias/evidencia04.jpg)
 ![Resultado do lambda](Evidencias/evidencia05.jpg)
 
+## Evidências do Deshboard 
+
+Gráfico de Linha referente aos orçamento e bilheteria das franquias Crepúsculo e After.
+
+![Deshboard](Evidencias/evidencia_desafio.jpg)
+
+Indicador de Desempenho referente aos orçamento, bilheteria, popularidade e nota média das franquias Crepúsculo e After.
+
+![Deshboard](Evidencias/evidencia_desafio2.jpg)
+
+Gráfico de Rosca referente insidência dos nomes dos personagens principais nas sinopses das franquias Crepúsculo e After.
+
+![Deshboard](Evidencias/evidencia_desafio3.jpg)
